@@ -212,6 +212,8 @@ Tools Used
 
 You can find the sql script for feature engeneering and ad-hoq questions [here](https://github.com/krishnaShreeDeka/AtliQ-Mart-Promotion-Effectiveness-Analysis/blob/main/ad-hoc.sql)  
 You can find the video presentation of this analysis [here](https://drive.google.com/file/d/1LB8FuJDHiceYwJ-sJZvSctwEGGPXmQ92/view?usp=drive_link)  
+You can find the likedin post for this project [here](https://www.linkedin.com/posts/krishna-shree-deka-360975363_promotion-effectiveness-analysis-ugcPost-7476236200236695552-hsfu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpgtrgBVbz9C6DOSB5JUJ_HfnioSDv1UTs)
+The power bi dashboard of this project can be gound [here](
 
 
 
