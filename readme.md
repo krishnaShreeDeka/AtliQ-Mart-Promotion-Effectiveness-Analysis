@@ -72,7 +72,8 @@ This analysis evaluated the effectiveness of various promotional strategies, inc
 # Dataset Description 
 The analysis utilizes four tables containing campaigns, products, stores, and transaction-level promotional data  
      
-![alt text](image.png) 
+<img width="945" height="684" alt="data model" src="https://github.com/user-attachments/assets/cffcc853-274d-4286-9da6-0ab1e70cb483" />
+
 
 The project follows a star schema consisting of:  
 + fact_events (Fact Table)  
@@ -95,7 +96,8 @@ Designed to encourage purchases while maintaining higher selling prices.
 Percentage-based discount promotions applied directly to product prices.  
 Intended to stimulate demand through price reductions.  
   
-**Revenue Metrics**   
+**Revenue Metrics**  
+  
 **Incremental Revenue (IR)** : Measures the additional revenue generated as a result of promotional campaigns.  
 **Incremental Revenue Percentage (IR%)** : Measures the percentage change in revenue attributable to promotions.  
 **Incremental Sold Units (ISU)** : Measures the additional units sold during the promotional period.  
@@ -111,7 +113,8 @@ By analyzing promotion effectiveness, product and category performance, price se
 
 The insights presented below form the basis for the strategic recommendations outlined later in this report.
 ## Promotional Analysis 
-![alt text](image-1.png)
+<img width="1308" height="397" alt="1" src="https://github.com/user-attachments/assets/86e0f9f7-02c2-4f8a-8d79-f28d576debd5" />
+
 + The two campaigns exhibited distinct performance patterns. Diwali delivered stronger revenue growth, achieving a 94.12% increase in revenue and a 66.25% increase in units sold, indicating better monetization of promotional activities. In contrast, the Sankranti campaign generated a substantial 155.31% increase in sales volume but only a 50.87% increase in revenue, suggesting that demand growth was driven primarily by aggressive discounting rather than higher revenue generation.  
 + BOGOF (Buy One Get One Free) promotions generated the highest increase in sales volume, contributing more than 150,000 additional units sold and demonstrating strong customer responsiveness to value-based offers.
 + BOGOF emerged as the most effective promotion for driving customer purchases, followed by ₹500 Cashback offers. In contrast, the 25% discount promotion underperformed, resulting in a decline of approximately 5,000 units sold compared to other promotional strategies.
@@ -120,24 +123,29 @@ The insights presented below form the basis for the strategic recommendations ou
 
 ## Price Segment Analysis 
   
-![alt text](image-2.png) 
+<img width="694" height="445" alt="ISU% inc by price group" src="https://github.com/user-attachments/assets/4cc6b91e-0793-40a6-8345-9b044f9dacf5" />
+
 + Premium-priced products (above ₹1,000) exhibited the highest increase in sales volume following promotions, indicating strong customer responsiveness within higher-value product segments.
 
 ## Category Performance
-![alt text](image-3.png)
+<img width="480" height="314" alt="3 (2)" src="https://github.com/user-attachments/assets/14f40239-e588-4724-9cc7-3469b3d47c85" />
+
 + The Combo category delivered strong performance across both incremental sales volume and incremental revenue metrics, making it one of the most effective product categories during promotional periods.
 + The 25% discount promotion consistently underperformed across all product categories, generating weak growth in both sales volume and revenue, indicating limited customer appeal and poor financial effectiveness.
 + BOGOF was the only promotional strategy that consistently generated positive incremental revenue across product categories. Although 33% and 50% discount offers increased sales volume, they failed to translate those gains into sustainable revenue growth.
 
 ## Store performance Analysis 
-![alt text](image-4.png)  
+<img width="695" height="409" alt="image-4" src="https://github.com/user-attachments/assets/864a49c0-49fd-4bc0-99df-d51a4a9ffb87" />
+ 
 The highest-performing stores achieved superior revenue growth primarily through the use of Cashback and BOGOF promotions, highlighting the effectiveness of these strategies at the store level.
 ## City Analysis
-![alt text](image-5.png)
+<img width="1114" height="289" alt="City Performance" src="https://github.com/user-attachments/assets/8551012e-a21d-4113-8c38-793bf3003336" />
+
 Promotional campaigns generated positive revenue growth across all cities, demonstrating broad market effectiveness. Bengaluru, Chennai, and Hyderabad emerged as the strongest-performing markets, contributing the highest post-promotion sales volumes.
 
 ## Products Analysis
-![alt text](image-6.png)
+<img width="1409" height="811" alt="image-6" src="https://github.com/user-attachments/assets/f4276ad2-ea1e-410b-a83e-c99cab694656" />
+
 + The top-performing product–promotion combinations in terms of sales volume growth were largely associated with BOGOF offers, highlighting the effectiveness of this promotion type in stimulating customer demand. Product performance varied considerably depending on the promotion applied, suggesting that promotional strategy had a greater impact on outcomes than the products themselves.
 + Most of the lowest-performing product–promotion combinations were associated with the 25% discount offer, indicating that this promotion type consistently underperformed in driving additional demand. The same products often achieved better results under alternative promotions, emphasizing the importance of selecting the right promotional strategy.
 # Recommendations
